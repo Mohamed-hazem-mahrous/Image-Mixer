@@ -1,0 +1,230 @@
+2024-01-25 15:37:54,718 - DEBUG - Properties set: ft_enabled=False, can_browse=False
+2024-01-25 15:37:54,718 - DEBUG - Properties set: ft_enabled=False, can_browse=False
+2024-01-25 15:38:03,383 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:03,384 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:03,599 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:03,599 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:03,600 - DEBUG - Displayed image
+2024-01-25 15:38:03,652 - DEBUG - Region slice returned
+2024-01-25 15:38:03,900 - DEBUG - Region update finished
+2024-01-25 15:38:03,900 - DEBUG - ROI size set to image size
+2024-01-25 15:38:03,975 - DEBUG - Region slice returned
+2024-01-25 15:38:04,411 - DEBUG - Region update finished
+2024-01-25 15:38:04,412 - DEBUG - ROI centered to image
+2024-01-25 15:38:04,413 - DEBUG - Reset ROI
+2024-01-25 15:38:04,413 - DEBUG - Loaded image: {img_path}
+2024-01-25 15:38:04,413 - INFO - Loaded image: D:/..Projects/DSP Tasks/4- Image Mixer/Images/img1.jpg
+2024-01-25 15:38:06,686 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:06,686 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:06,811 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:06,811 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:06,811 - DEBUG - Displayed image
+2024-01-25 15:38:06,836 - DEBUG - Region slice returned
+2024-01-25 15:38:06,963 - DEBUG - Region update finished
+2024-01-25 15:38:07,001 - DEBUG - Region slice returned
+2024-01-25 15:38:07,308 - DEBUG - Region update finished
+2024-01-25 15:38:07,308 - DEBUG - ROI size set to image size
+2024-01-25 15:38:07,336 - DEBUG - Region slice returned
+2024-01-25 15:38:07,456 - DEBUG - Region update finished
+2024-01-25 15:38:07,502 - DEBUG - Region slice returned
+2024-01-25 15:38:07,689 - DEBUG - Region update finished
+2024-01-25 15:38:07,690 - DEBUG - ROI centered to image
+2024-01-25 15:38:07,690 - DEBUG - Reset ROI
+2024-01-25 15:38:07,690 - DEBUG - Loaded image: {img_path}
+2024-01-25 15:38:07,690 - INFO - Loaded image: D:/..Projects/DSP Tasks/4- Image Mixer/Images/img2.jpg
+2024-01-25 15:38:09,404 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:09,404 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:09,534 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:09,534 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:09,535 - DEBUG - Displayed image
+2024-01-25 15:38:09,562 - DEBUG - Region slice returned
+2024-01-25 15:38:09,696 - DEBUG - Region update finished
+2024-01-25 15:38:09,723 - DEBUG - Region slice returned
+2024-01-25 15:38:09,900 - DEBUG - Region update finished
+2024-01-25 15:38:09,953 - DEBUG - Region slice returned
+2024-01-25 15:38:10,094 - DEBUG - Region update finished
+2024-01-25 15:38:10,094 - DEBUG - ROI size set to image size
+2024-01-25 15:38:10,121 - DEBUG - Region slice returned
+2024-01-25 15:38:10,246 - DEBUG - Region update finished
+2024-01-25 15:38:10,302 - DEBUG - Region slice returned
+2024-01-25 15:38:10,483 - DEBUG - Region update finished
+2024-01-25 15:38:10,515 - DEBUG - Region slice returned
+2024-01-25 15:38:10,658 - DEBUG - Region update finished
+2024-01-25 15:38:10,658 - DEBUG - ROI centered to image
+2024-01-25 15:38:10,658 - DEBUG - Reset ROI
+2024-01-25 15:38:10,659 - DEBUG - Loaded image: {img_path}
+2024-01-25 15:38:10,659 - INFO - Loaded image: D:/..Projects/DSP Tasks/4- Image Mixer/Images/img1.jpg
+2024-01-25 15:38:12,776 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:12,776 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:12,948 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:12,948 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:12,948 - DEBUG - Displayed image
+2024-01-25 15:38:12,977 - DEBUG - Region slice returned
+2024-01-25 15:38:13,159 - DEBUG - Region update finished
+2024-01-25 15:38:13,182 - DEBUG - Region slice returned
+2024-01-25 15:38:13,335 - DEBUG - Region update finished
+2024-01-25 15:38:13,360 - DEBUG - Region slice returned
+2024-01-25 15:38:13,497 - DEBUG - Region update finished
+2024-01-25 15:38:13,497 - DEBUG - All regions modified
+2024-01-25 15:38:13,523 - DEBUG - Region slice returned
+2024-01-25 15:38:13,649 - DEBUG - Region update finished
+2024-01-25 15:38:13,649 - DEBUG - ROI size set to image size
+2024-01-25 15:38:13,674 - DEBUG - Region slice returned
+2024-01-25 15:38:13,821 - DEBUG - Region update finished
+2024-01-25 15:38:13,847 - DEBUG - Region slice returned
+2024-01-25 15:38:14,029 - DEBUG - Region update finished
+2024-01-25 15:38:14,082 - DEBUG - Region slice returned
+2024-01-25 15:38:14,206 - DEBUG - Region update finished
+2024-01-25 15:38:14,206 - DEBUG - All regions modified
+2024-01-25 15:38:14,239 - DEBUG - Region slice returned
+2024-01-25 15:38:14,366 - DEBUG - Region update finished
+2024-01-25 15:38:14,366 - DEBUG - ROI centered to image
+2024-01-25 15:38:14,366 - DEBUG - Reset ROI
+2024-01-25 15:38:14,366 - DEBUG - Loaded image: {img_path}
+2024-01-25 15:38:14,366 - INFO - Loaded image: D:/..Projects/DSP Tasks/4- Image Mixer/Images/img4.jpg
+2024-01-25 15:38:14,495 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:14,495 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:14,605 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:14,605 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:14,606 - DEBUG - Displayed image
+2024-01-25 15:38:14,730 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:14,730 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:14,904 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:14,904 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:14,904 - DEBUG - Displayed image
+2024-01-25 15:38:15,037 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:15,037 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:15,196 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:15,196 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:15,197 - DEBUG - Displayed image
+2024-01-25 15:38:15,365 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:15,365 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:15,500 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:15,501 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:15,501 - DEBUG - Displayed image
+2024-01-25 15:38:15,501 - DEBUG - Resized images
+2024-01-25 15:38:17,243 - DEBUG - Region slice returned
+2024-01-25 15:38:17,395 - DEBUG - Region update finished
+2024-01-25 15:38:17,435 - DEBUG - Region slice returned
+2024-01-25 15:38:17,585 - DEBUG - Region update finished
+2024-01-25 15:38:17,621 - DEBUG - Region slice returned
+2024-01-25 15:38:17,798 - DEBUG - Region update finished
+2024-01-25 15:38:17,798 - DEBUG - All regions modified
+2024-01-25 15:38:17,824 - DEBUG - Region slice returned
+2024-01-25 15:38:18,012 - DEBUG - Region update finished
+2024-01-25 15:38:18,560 - DEBUG - Mean value calculated: 4
+2024-01-25 15:38:18,683 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:18,683 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:18,940 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:18,940 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:19,109 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:19,110 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:19,247 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:19,247 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:19,401 - DEBUG - Applied weights and calculated output for mode: FT Magnitude
+2024-01-25 15:38:19,585 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:19,586 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:19,586 - DEBUG - Displayed image
+2024-01-25 15:38:19,586 - DEBUG - Displayed view output
+2024-01-25 15:38:19,586 - INFO - Displayed output for mode: FT Magnitude
+2024-01-25 15:38:21,383 - DEBUG - Sliders weights updated: [1.0, 0.9, 1.0, 1.0]
+2024-01-25 15:38:21,392 - DEBUG - Sliders weights updated: [1.0, 0.8, 1.0, 1.0]
+2024-01-25 15:38:21,407 - DEBUG - Sliders weights updated: [1.0, 0.7, 1.0, 1.0]
+2024-01-25 15:38:21,439 - DEBUG - Sliders weights updated: [1.0, 0.6, 1.0, 1.0]
+2024-01-25 15:38:21,455 - DEBUG - Sliders weights updated: [1.0, 0.5, 1.0, 1.0]
+2024-01-25 15:38:21,471 - DEBUG - Sliders weights updated: [1.0, 0.4, 1.0, 1.0]
+2024-01-25 15:38:21,479 - DEBUG - Sliders weights updated: [1.0, 0.3, 1.0, 1.0]
+2024-01-25 15:38:21,497 - DEBUG - Sliders weights updated: [1.0, 0.2, 1.0, 1.0]
+2024-01-25 15:38:21,504 - DEBUG - Sliders weights updated: [1.0, 0.1, 1.0, 1.0]
+2024-01-25 15:38:21,511 - DEBUG - Sliders weights updated: [1.0, 0.0, 1.0, 1.0]
+2024-01-25 15:38:21,799 - DEBUG - Mean value calculated: 3
+2024-01-25 15:38:21,926 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:21,926 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:22,150 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:22,150 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:22,300 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:22,300 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:22,514 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:22,514 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:22,709 - DEBUG - Applied weights and calculated output for mode: FT Magnitude
+2024-01-25 15:38:22,890 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:22,890 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:22,893 - DEBUG - Displayed image
+2024-01-25 15:38:22,893 - DEBUG - Displayed view output
+2024-01-25 15:38:22,893 - INFO - Displayed output for mode: FT Magnitude
+2024-01-25 15:38:22,902 - DEBUG - Sliders weights updated: [1.0, 0.0, 0.0, 1.0]
+2024-01-25 15:38:23,191 - DEBUG - Mean value calculated: 2
+2024-01-25 15:38:23,332 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:23,333 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:23,536 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:23,536 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:23,693 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:23,694 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:23,839 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:23,840 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:24,003 - DEBUG - Applied weights and calculated output for mode: FT Magnitude
+2024-01-25 15:38:24,157 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:24,157 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:24,159 - DEBUG - Displayed image
+2024-01-25 15:38:24,159 - DEBUG - Displayed view output
+2024-01-25 15:38:24,159 - INFO - Displayed output for mode: FT Magnitude
+2024-01-25 15:38:25,086 - DEBUG - Sliders weights updated: [1.0, 0.0, 0.0, 0.9]
+2024-01-25 15:38:25,094 - DEBUG - Sliders weights updated: [1.0, 0.0, 0.0, 1.0]
+2024-01-25 15:38:25,104 - DEBUG - Sliders weights updated: [1.0, 0.0, 0.0, 0.9]
+2024-01-25 15:38:25,119 - DEBUG - Sliders weights updated: [1.0, 0.0, 0.0, 0.8]
+2024-01-25 15:38:25,127 - DEBUG - Sliders weights updated: [1.0, 0.0, 0.0, 0.7]
+2024-01-25 15:38:25,135 - DEBUG - Sliders weights updated: [1.0, 0.0, 0.0, 0.6]
+2024-01-25 15:38:25,142 - DEBUG - Sliders weights updated: [1.0, 0.0, 0.0, 0.5]
+2024-01-25 15:38:25,151 - DEBUG - Sliders weights updated: [1.0, 0.0, 0.0, 0.3]
+2024-01-25 15:38:25,158 - DEBUG - Sliders weights updated: [1.0, 0.0, 0.0, 0.1]
+2024-01-25 15:38:25,167 - DEBUG - Sliders weights updated: [1.0, 0.0, 0.0, 0.0]
+2024-01-25 15:38:25,456 - DEBUG - Mean value calculated: 1
+2024-01-25 15:38:25,581 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:25,581 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:25,765 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:25,765 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:25,950 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:25,950 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:26,164 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:26,164 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:26,359 - DEBUG - Applied weights and calculated output for mode: FT Magnitude
+2024-01-25 15:38:26,488 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:26,488 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:26,490 - DEBUG - Displayed image
+2024-01-25 15:38:26,490 - DEBUG - Displayed view output
+2024-01-25 15:38:26,490 - INFO - Displayed output for mode: FT Magnitude
+2024-01-25 15:38:29,137 - DEBUG - Plotted Fourier transform data: FT Real
+2024-01-25 15:38:30,584 - DEBUG - Plotted Fourier transform data: FT Real
+2024-01-25 15:38:31,711 - DEBUG - Plotted Fourier transform data: FT Real
+2024-01-25 15:38:32,864 - DEBUG - Plotted Fourier transform data: FT Real
+2024-01-25 15:38:36,208 - DEBUG - Mean value calculated: 1
+2024-01-25 15:38:36,373 - DEBUG - Plotted Fourier transform data: FT Real
+2024-01-25 15:38:36,373 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:36,648 - DEBUG - Plotted Fourier transform data: FT Real
+2024-01-25 15:38:36,648 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:36,894 - DEBUG - Plotted Fourier transform data: FT Real
+2024-01-25 15:38:36,895 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:37,116 - DEBUG - Plotted Fourier transform data: FT Real
+2024-01-25 15:38:37,116 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:37,287 - DEBUG - Applied weights and calculated output for mode: FT Real
+2024-01-25 15:38:37,408 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:37,409 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:37,410 - DEBUG - Displayed image
+2024-01-25 15:38:37,410 - DEBUG - Displayed view output
+2024-01-25 15:38:37,410 - INFO - Displayed output for mode: FT Real
+2024-01-25 15:38:40,143 - DEBUG - Invert ROI state set to: True
+2024-01-25 15:38:41,256 - DEBUG - Mean value calculated: 1
+2024-01-25 15:38:41,415 - DEBUG - Plotted Fourier transform data: FT Real
+2024-01-25 15:38:41,415 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:41,690 - DEBUG - Plotted Fourier transform data: FT Real
+2024-01-25 15:38:41,691 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:41,920 - DEBUG - Plotted Fourier transform data: FT Real
+2024-01-25 15:38:41,920 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:42,195 - DEBUG - Plotted Fourier transform data: FT Real
+2024-01-25 15:38:42,196 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:42,335 - DEBUG - Applied weights and calculated output for mode: FT Real
+2024-01-25 15:38:42,488 - DEBUG - Plotted Fourier transform data: FT Magnitude
+2024-01-25 15:38:42,488 - DEBUG - Calculated Fourier transform
+2024-01-25 15:38:42,489 - DEBUG - Displayed image
+2024-01-25 15:38:42,489 - DEBUG - Displayed view output
+2024-01-25 15:38:42,489 - INFO - Displayed output for mode: FT Real
