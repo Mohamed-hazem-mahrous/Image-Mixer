@@ -14,7 +14,7 @@
 
 
 ## Introduction
-This repository contains the source code for a PyQt-based mixer application designed for image processing. The application allows users to load multiple images, apply various operations on them, and visualize the results. 
+This is a desktop program that explains the relative importance of the magnitude and phase components as well emphasizing the frequencies' different contributions to the signal.
 
 
 ## Features
