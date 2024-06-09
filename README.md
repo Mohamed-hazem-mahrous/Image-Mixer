@@ -4,6 +4,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Team Members](#Team-Members)
 - [Features](#features)
 - [Video Demonstration](#Video-Demonstration)
 - [Requirements](#requirements)
@@ -16,6 +17,12 @@
 ## Introduction
 This is a desktop program that explains the relative importance of the magnitude and phase components as well emphasizing the frequencies' different contributions to the signal.
 
+## Team Members
+The following team members have contributed to this project:
+- Mohamed Hazem Yehya
+- Assem Hussein
+- Kyrolos Emad
+- Arsany Maged
 
 ## Features
 
